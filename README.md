@@ -2,7 +2,7 @@
 
 This repository contains the programs:
 
-- `PhDSelection,py` [Python]
+- `PhDSelection.py` [Python]
 
 The following libraries are required to run this notebook:
 - `openpyxl`
